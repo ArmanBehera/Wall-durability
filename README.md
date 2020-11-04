@@ -1,2 +1,2 @@
-# Wall-durability
-This is a test that checks the durability of the wall while it is struck by a bullet
+# p5.play-boilerplate
+Boiler plate for p5.play
